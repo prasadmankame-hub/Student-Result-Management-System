@@ -1,2 +1,2 @@
 first install the pip install openpyxl and pip install reportlab.
-required a app to connected to use print button.
+required an app connected for use of print button.
